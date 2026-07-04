@@ -34,9 +34,9 @@
 
 ## Overview
 
-This project provisions **secure static website hosting on AWS**, built entirely as Infrastructure as Code with Terraform. Rather than relying on a public S3 bucket — a widely known anti-pattern — the bucket stays completely private, and all traffic is routed through **Amazon CloudFront** using **Origin Access Control (OAC)**.
+This project provisions **secure static website hosting on AWS**, built entirely as Infrastructure as Code with Terraform. Rather than relying on a public S3 bucket — a widely known anti-pattern the bucket stays completely private, and all traffic is routed through **Amazon CloudFront** using **Origin Access Control (OAC)**.
 
-The result is a hosting setup that is fast, globally distributed, encrypted at rest, and locked down so that only CloudFront — and no other principal — can read from the bucket.
+The result is a hosting setup that is fast, globally distributed, encrypted at rest, and locked down so that only CloudFront  and no other principal can read from the bucket.
 
 ---
 
