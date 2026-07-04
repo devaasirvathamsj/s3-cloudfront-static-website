@@ -203,4 +203,7 @@ terraform destroy
 
 ## Author
 
-**Deva Asirvatham**
+Deva Asirvatham SJ
+- GitHub: [devaasirvathamsj](https://github.com/devaasirvathamsj)
+- Email: devaasirvathamsj@gmail.com
+
